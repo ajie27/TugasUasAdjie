@@ -1,4 +1,4 @@
-# TugasUasAdjie
+# TugasUasKomputerGrafikAdjie
 # Nama: Adjie Hiedayatullah
 # Nim: 201011401366
 
