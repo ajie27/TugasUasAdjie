@@ -1,6 +1,11 @@
 # TugasUasKomputerGrafikAdjie
 # Nama: Adjie Hiedayatullah
 # Nim: 201011401366
+Flask 2.3.2
+Python 3.10.0
+Warkzeug 2.3.6
+Opencv2
+Numpy
 
 Output 1
 ![output_1](https://github.com/ajie27/TugasUasAdjie/assets/133578428/cb66d2e6-7af3-41f3-88c1-e920f75281e0)
