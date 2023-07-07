@@ -2,9 +2,13 @@
 # Nama: Adjie Hiedayatullah
 # Nim: 201011401366
 Flask 2.3.2
+
 Python 3.10.0
+
 Warkzeug 2.3.6
+
 Opencv2
+
 Numpy
 
 Output 1
